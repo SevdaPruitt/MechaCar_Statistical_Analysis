@@ -1,13 +1,13 @@
 The MechaCar is dealing with production issues which is putting the manufacturing team's progess at a disadvantage. To identify the underlying cause and provide an objective insight, it is decided to look into production data with data analytics team.
 
-# Deliverable 1: Perform Linear Regression to Predict MPG
+## Deliverable 1: Perform Linear Regression to Predict MPG
 <br>
 
 ![CorrelationCoefficientMatrix1.png](images/CorrelationCoefficientMatrix1.png)
 <br>
 ![CorrelationCoefficientMatrix2.png](images/CorrelationCoefficientMatrix2.png)
 
-# Deliverable 2: Summary Statistics on Suspension Coils
+## Deliverable 2: Summary Statistics on Suspension Coils
 <br>
 ![SummaryTable.png](images/SummaryTable.png)
 <br>
