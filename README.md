@@ -30,14 +30,14 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## Deliverable 3: T-Test on Suspension Coils
 We want to find out if all lots or any lot individually are different from the population mean of 1,500 pounds per square inch. Using R, performing t-tests to calculate the p-value and compare it against a significance level of 0.05 will help us to determine.
 
-<br>
+
+lot1 test results:
 ![lot1.png](images/lot1.png)
 
-<br>
+lot2 test results:
 ![lot2.png](images/lot2.png)
 
-<br>
-
+lot3 test results:
 ![lot3.png](images/lot3.png)
 
 <br>
