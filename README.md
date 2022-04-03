@@ -1,3 +1,4 @@
+# MECHA CAR STUDY
 <br>
 The MechaCar is dealing with production issues which is putting the manufacturing team's progess at a disadvantage. To identify the underlying cause and provide an objective insight, it is decided to look into production data with data analytics team.
 
@@ -45,16 +46,16 @@ As seen above, all P-values in each manufacturing lot is above the significance 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 It would be beneficial to run a study on the MechaCar vs the competition, so a more customer centric and more profitable production can be in place
 
-# Metrics
+## Metrics
 The metric to test in today's world of highly expensive fuel, city or highway fuel efficiency.
 
-# Hypothesis
+## Hypothesis
 Null: MechaCar has the same fuel efficiency for each cylinder class. 
 
 Alternate: MechaCar does not have the same fuel efficiency for each cylinder class.
 
-# Statistical Tests
+## Statistical Tests
 We can use the liner regression as well as T-test, as we have done initially.
 
-# Data
+## Data
 We can look into the following data points: Manufacturer (mfg) Engine Size (cyl) Highway Fuel Efficiency (hwy) City Fuel Efficiency (cty) Model Year Cost
