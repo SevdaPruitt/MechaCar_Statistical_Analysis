@@ -1,4 +1,4 @@
-# MECHA CAR STUDY
+# MechaCar STUDY
 <br>
 The MechaCar is dealing with production issues which is putting the manufacturing team's progess at a disadvantage. To identify the underlying cause and provide an objective insight, it is decided to look into production data with data analytics team.
 
