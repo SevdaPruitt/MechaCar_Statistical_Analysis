@@ -40,5 +40,21 @@ lot2 test results:
 lot3 test results:
 ![lot3.png](images/lot3.png)
 
+As seen above, all P-values in each manufacturing lot is above the significance level of 0.05; fail to reject null hypothesis.
 <br>
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+It would be beneficial to run a study on the MechaCar vs the competition, so a more customer centric and more profitable production can be in place
+
+# Metrics
+The metric to test in today's world of highly expensive fuel, city or highway fuel efficiency.
+
+# Hypothesis
+Null: MechaCar has the same fuel efficiency for each cylinder class. 
+
+Alternate: MechaCar does not have the same fuel efficiency for each cylinder class.
+
+# Statistical Tests
+We can use the liner regression as well as T-test, as we have done initially.
+
+# Data
+We can look into the following data points: Manufacturer (mfg) Engine Size (cyl) Highway Fuel Efficiency (hwy) City Fuel Efficiency (cty) Model Year Cost
