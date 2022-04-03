@@ -18,6 +18,7 @@ The matrix have no variables to support a strong correlation (1 >= absolute valu
 If we run a multiple linear regression model, this will give us the above result. Based on the numbers, vehicle length and ground clearance will not give us random amount of variance. In brief, these have significant impact on mpg. The p-value of the linear regression analysis is smaller 5.35e-11. It is clear we can reject null hypothesis. The R-squared value is 0.7149, in other words, multiple linear regression can predict 71% of mpg.
 
 <br>
+
 ## Deliverable 2: Summary Statistics on Suspension Coils
 
 <br>
